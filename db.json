@@ -1,11 +1,15 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"users": [{
+			"userheading": "Abhay",
+			"userdetail": ["Item 1", "Item 2", "Item 3", "Item 4"]
+		},
+		{
+			"userheading": "Kumar",
+			"userdetail": ["Item 3", "Item 4"]
+		},
+		{
+			"userheading": "Mishra",
+			"userdetail": ["Item 1", "Item 2"]
+		}
+	]
 }
